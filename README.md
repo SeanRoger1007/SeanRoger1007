@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Sean Roger Gacela
+<a href="https://www.linkedin.com/in/sean-roger-gacela/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ## 🎓 BS Computer Science Graduate  
 ## 💼 Open to Entry-Level Opportunities (Software Development | QA | IT Support | Data)
@@ -50,11 +52,17 @@ I'm a Bachelor of Science in Computer Science graduate passionate about building
 ---
 
 ## 🤳 Connect with Me
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg)](https://www.facebook.com/SeanGacela)
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/parmacean)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/sean-roger-gacela/)
+[<img align="left" alt="SeanGacela | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="SeanGacela | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SeanGacela | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SeanGacela | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SeanGacela | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[facebook]: https://www.facebook.com/SeanGacela
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/parmacean/
+[linkedin]: https://www.linkedin.com/in/sean-roger-gacela
 
 ---
 
