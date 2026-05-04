@@ -28,14 +28,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Front-End Developer** with a strong focus on a **Rudimentary Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
+I'm a **Front-End Developer** with a strong focus on a **Architectural Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
 
 - 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with Spring Boot
 - 🏛️ Strong advocate for **Clean Architecture** — separation of concerns, testability, and maintainability by design
-- 💬 Ask me about **Full-Stack Development, Java/Spring Boot Architecture, and Scalable API Design**
-- 🎯 **2026 Goal:** Transition into a Junior Full-Stack role focusing on scalable Cloud Architectures and System Design
-- ⚡ I thrive on consistency — my days start with a **gym session** and wind down deep-diving into **CS research papers**
-- ✉️ **stephenjozaraspe@gmail.com**
+- 💬 Ask me about **Front-End Development, Java Architecture, and Scalable API Design**
+- 🎯 **2026 Goal:** Transition into a Junior Front-End role focusing on scalable Architectures and System Design
+- ⚡ I thrive on consistency — my days start with a **workout/arcade** and wind down deep-diving into **Deep Learning**
+- ✉️ **seanroger21@gmail.com**
 
 ---
 
@@ -181,20 +181,20 @@ I'm a **Front-End Developer** with a strong focus on a **Rudimentary Design**, *
 ##  What I'm Currently Studying
 
 ```java
-public class StephenJohnZaraspe {
+public class SeanRogerGacela {
 
     String[] currentlyLearning = {
-        "System Design & Distributed Systems",
-        "High-Availability Backends with Spring Boot",
-        "Cloud Architecture Patterns on AWS",
-        "Clean Architecture & Domain-Driven Design"
-    };
+    "Modern Frontend Development with React",
+    "Responsive UI/UX Design (HTML, CSS, Tailwind)",
+    "State Management (React Hooks, Context API)",
+    "Frontend Performance Optimization & Accessibility"
+};
 
     String architectureMantra =
         "Depend inward. Isolate the domain. Let frameworks be plugins.";
 
     String getDailyRoutine() {
-        return " Gym  →   Coffee  →   Deep Work  →   CS Research Papers";
+        return " Gym  →   Arcade  →   Deep Work  →   Play Guitar → Grind Online Games → Take Care of my Pets";
     }
 
     boolean isOpenToWork() { return true; }
@@ -205,13 +205,13 @@ public class StephenJohnZaraspe {
 
 ##  Let's Connect
 
-I'm **actively preparing for a Junior Full-Stack role in 2026** with a focus on scalable Cloud Architectures and System Design. Recruiter, fellow dev, or open-source collaborator — I'd love to connect!
+I'm **actively preparing for a Junior Front-end/Full-Stack role in 2026** with a focus on scalable System Design & Architecture. Recruiter, fellow dev, or open-source collaborator — I'd love to connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-john-zaraspe-6a5956240/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StephenZaraspe)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenjozaraspe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-roger-gacela/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seanroger1007)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seanroger21@gmail.com)
 
 </div>
 
@@ -283,7 +283,7 @@ Got here from a job post, a project repo, or just browsing? Drop a note! 👇
 ║        - uses: yoshi389111/github-profile-3d-contrib@0.7.1      ║
 ║          env:                                                    ║
 ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            ║
-║            USERNAME: StephenZaraspe                             ║
+║            USERNAME: SeanRoger1007                           ║
 ║        - uses: crazy-max/ghaction-github-pages@v3               ║
 ║          with:                                                   ║
 ║            target_branch: main                                  ║
