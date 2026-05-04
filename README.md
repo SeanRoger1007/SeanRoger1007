@@ -224,7 +224,7 @@ I'm **actively preparing for a Junior Front-end/Full-Stack role in 2026** with a
 
 Got here from a job post, a project repo, or just browsing? Drop a note! 👇
 
-[![Sign Guestbook](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Sign_My_Guestbook-111827?style=for-the-badge)](https://github.com/StephenZaraspe/StephenZaraspe/issues/new?assignees=StephenZaraspe&labels=guestbook&template=guestbook.md&title=Guestbook+%7C+%5BYour+Name%5D)
+[![Sign Guestbook](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Sign_My_Guestbook-111827?style=for-the-badge)](https://github.com/SeanRoger1007/SeanRoger1007/issues/new)
 
 <!-- GUESTBOOK:START -->
 <!-- GUESTBOOK:END -->
