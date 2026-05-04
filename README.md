@@ -5,18 +5,7 @@
 
 <div align="center">
 
-<!-- Snake eating your contribution graph (auto-regenerated daily via GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/StephenZaraspe/StephenZaraspe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/StephenZaraspe/StephenZaraspe/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/StephenZaraspe/StephenZaraspe/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00B4D8&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Stephen+John+Zaraspe;Full+Stack+Developer+%7C+Java+%2F+Spring+Boot;Clean+Architecture+Advocate;Building+CreditFlow-AI;System+Design+%7C+Scalable+Cloud+Backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Im+Sean+Roger+Gacela;Front-End+Developer+%7C+HTML%2C+CSS%2C+JS;Mobile+Development+%7C+Android%7CSwiftUI;System+Design+%7C+Scalable)](https://git.io/typing-svg)
 
 <br/>
 
