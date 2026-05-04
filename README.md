@@ -3,7 +3,8 @@
 
 
 ## 🎓 BS Computer Science Graduate  
-## 💼 Open to Entry-Level Opportunities (Software Development | QA | IT Support | Data)
+## 💼 Open to Entry-Level Opportunities 
+(Software Development | QA | IT Support | Data)
 
 ---
 
@@ -47,7 +48,7 @@ I'm a Bachelor of Science in Computer Science graduate passionate about building
 ---
 
 ## 🏆 Achievements
-- *(Add your awards, certifications, or academic achievements here)*  
+
 
 ---
 
