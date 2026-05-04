@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Im+Sean+Roger+Gacela;Front-End+Developer+%7C+HTML%2C+CSS%2C+JS;Mobile+Development+%7C+Android%7CSwiftUI;System+Design+%7C+Scalable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Sean+Roger+Gacela+;Front-End+Developer+%7C+HTML%2C+C%2B%2B%2C+JS;Mobile+Development+%7C+Android%7CSwiftUI;System+Design+%7C+Scalable+Backends)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,9 +28,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **Java/Spring Boot backends**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
+I'm a **Front-End Developer** with a strong focus on a **Rudimentary Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
 
-- 🔭 Currently building **CreditFlow-AI** — a full-stack merchant credit scoring system using behavioral data and ML
 - 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with Spring Boot
 - 🏛️ Strong advocate for **Clean Architecture** — separation of concerns, testability, and maintainability by design
 - 💬 Ask me about **Full-Stack Development, Java/Spring Boot Architecture, and Scalable API Design**
@@ -45,35 +44,29 @@ I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **
 ### Frontend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,swift&theme=dark" />
   </a>
 </p>
 
 ### Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,rust,arduino,androidstudio,swift&theme=dark" />
   </a>
 </p>
 
 ### Database & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws&theme=dark" />
   </a>
 </p>
 
-### Containerization & DevOps
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
-  </a>
-</p>
 
 ### Tools & IDE
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,powershell&theme=dark" />
   </a>
 </p>
 
@@ -83,56 +76,49 @@ I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **
 
 ---
 
-## 🏗️ Clean Architecture Philosophy
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                    Presentation Layer                        │  ← Controllers, DTOs, REST Endpoints
-├──────────────────────────────────────────────────────────────┤
-│                   Application Layer                          │  ← Use Cases, Commands, Queries
-├──────────────────────────────────────────────────────────────┤
-│                     Domain Layer                             │  ← Entities, Business Rules, Interfaces
-├──────────────────────────────────────────────────────────────┤
-│                 Infrastructure Layer                         │  ← DB, External APIs, Frameworks
-└──────────────────────────────────────────────────────────────┘
-              "Depend inward. Never outward."
-```
-
-> I architect every backend with **Clean Architecture** at its core — ensuring systems remain testable, maintainable, and framework-independent as they scale into production.
-
----
 
 ##  Featured Projects
 
-###  CreditFlow-AI
-> Full-stack merchant credit scoring system that leverages behavioral transaction data and ML models to generate real-time credit risk assessments for financial decision-making.
+###  [App Development QR Scanner with SMS Notification using AWS](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
+> This project is a Web-Based Attendance Management System developed using PHP, MySQL, HTML, CSS, and JavaScript. The system allows users to register, log in, and manage attendance records through a simple web interface. - Group Members (Gacela, Penera, & Doniego, Technological Institute of the Philippines).
 
-**Tech:** Java · Spring Boot · React · PostgreSQL · Python (ML) · AWS · Docker · Kubernetes  
-**Architecture:** Clean Architecture · RESTful API · Event-driven scoring pipeline · Microservices  
-**Highlights:** Behavioral data ingestion · ML model integration · RBAC · containerized deployment
+**Tech:** PHP · MySQL · HTML · CSS · JavaScript  
 
-![Status](https://img.shields.io/badge/🚧_In_Development-F59E0B?style=flat-square)
-> _Repository coming soon — actively in development_
-
----
-
-###  [Code Metric Analyzer](https://github.com/StephenZaraspe/code-metric-analyzer)
-> A research-backed web application for analyzing code quality metrics — built on the capstone paper "Development of a Code Metrics Analyzer Tool for Assessing Code Quality" (Zaraspe & Maniczic, Technological Institute of the Philippines).
-
-**Tech:** React 18 · TypeScript · Material-UI · Monaco Editor · Recharts  
 **Highlights:**
-- 7 core metrics: Cyclomatic Complexity, LOC, Code Duplication, Maintainability Index, Code Coverage, Security Vulnerability Assessment, and Big-O Complexity
-- Multi-language support: C#, Visual Basic, JavaScript, TypeScript
-- Real-time code editor with Monaco Editor (same engine as VS Code)
-- Export reports in JSON, CSV, and PDF formats
-- Recommendations engine with actionable improvement suggestions
+- QR Code-based attendance tracking for faster and more accurate check-ins  
+- SMS notification feature for sending attendance updates or alerts  
+- User authentication system with login and registration  
+- Instructor dashboard for managing and monitoring attendance records  
+- Student/user dashboard for viewing attendance history  
+- Real-time attendance recording and database storage using MySQL  
+- Simple and user-friendly web interface for ease of use  
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StephenZaraspe/code-metric-analyzer)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
 ![TypeScript](https://img.shields.io/badge/TypeScript-98%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
-###  [Traffic Monitoring System](https://github.com/StephenZaraspe/Traffic_Monitoring_System)
+###  [ReviewerMaker](https://github.com/SeanRoger1007/ReviewerMaker)
+> This project is designed with the intention of supporting users with disabilities by providing a simple and easy-to-navigate interface. Future improvements may include enhanced accessibility features such as better visual contrast, keyboard navigation, and assistive technology support like a voice-enabled system.  
+> — Group Members: Gacela, Penera, & Doniego, Technological Institute of the Philippines
+
+**Tech:** PHP · MySQL · HTML · CSS · JavaScript  
+
+**Highlights:**
+- Create and manage digital reviewer sets for studying  
+- Organize questions by topics or categories for easier learning  
+- Simple and accessible interface designed for ease of use  
+- Dynamic content display for better study experience  
+- Database integration using MySQL for storing reviewer data  
+- Web-based system accessible through a browser  
+- Designed with accessibility in mind for users with disabilities  
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/ReviewerMaker)
+![TypeScript](https://img.shields.io/badge/TypeScript-98%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+###  [Traffic Monitoring System](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 > An ML-powered traffic monitoring system using computer vision and data distillation techniques to detect, classify, and evaluate vehicles in real-time traffic scenarios.
 
 **Tech:** Python · YOLOv8 · OpenCV · PyTorch · Computer Vision  
@@ -143,7 +129,7 @@ I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **
 - Supports multiple training configurations: 10%, 50%, and 100% dataset sizes
 - YAML-based dataset management for flexible experimentation
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StephenZaraspe/Traffic_Monitoring_System)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -152,29 +138,23 @@ I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephenZaraspe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenZaraspe&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanRoger1007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRoger1007&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StephenZaraspe&theme=tokyonight&border_radius=8&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SeanRoger1007&theme=tokyonight&border_radius=8&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
-
-<!-- 3D Isometric Contribution City — auto-generated by GitHub Action (see setup below) -->
-[![3D Contribution Graph](https://raw.githubusercontent.com/StephenZaraspe/StephenZaraspe/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/StephenZaraspe)
-
-</div>
 
 ---
 
 ##  Weekly Coding Breakdown
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=StephenZaraspe&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@StephenZaraspe)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeanRoger1007&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@StephenZaraspe)
 
 > 🔧 _Install the free WakaTime plugin in IntelliJ / VS Code to auto-populate your real coding stats here._
 
@@ -182,7 +162,7 @@ I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **
 
 ## 🎧 Now Playing on Spotify
 
-[![Spotify](https://novatorem-stephenzaraspe.vercel.app/api/spotify)](https://open.spotify.com)
+[![Spotify](https://novatorem-SeanRoger1007.vercel.app/api/spotify)](https://open.spotify.com)
 
 > 🔧 _Deploy the novatorem integration to show your live currently-playing track here._
 
@@ -192,7 +172,7 @@ I'm a **Full Stack Developer** with a strong focus on **Clean Architecture**, **
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StephenZaraspe&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeanRoger1007&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
