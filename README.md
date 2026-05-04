@@ -1,7 +1,7 @@
-👋 Hi, I'm Sean Roger Gacela
+#👋 Hi, I'm Sean Roger Gacela
 
-🎓 BS Computer Science Graduate
-💼 Open to Entry-Level Opportunities (Software Dev | QA | IT Support | Data)
+<h2>🎓 BS Computer Science Graduate</h2>
+<h2>💼 Open to Entry-Level Opportunities</h2> (Software Dev | QA | IT Support | Data)
 
 <h2>🚀 About Me</h2>
 
