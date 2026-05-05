@@ -82,7 +82,7 @@ I'm a **Front-End Developer** with a strong focus on a **Architectural Design**,
 
 ##  Featured Projects
 
-###  [App Development QR Scanner with SMS Notification using AWS](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
+###  [Attendance Management System](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
 > This project is a Web-Based Attendance Management System developed using PHP, MySQL, HTML, CSS, and JavaScript. The system allows users to register, log in, and manage attendance records through a simple web interface. - Group Members (Gacela, Penera, & Doniego, Technological Institute of the Philippines).
 
 **Tech:** PHP · MySQL · HTML · CSS · JavaScript  
