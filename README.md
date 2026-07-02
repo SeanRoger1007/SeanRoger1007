@@ -137,11 +137,17 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 ---
 
-## 📜 Certifications
+## 📜 Featured Certifications
 
 <div align="center">
 
-[![View My Certificates](https://img.shields.io/badge/View_My_Certificates-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/1/folders/1YTqC8Wn-dtFEkfvVVv15cxRc0m5w5eVQ)
+  <a href="LINK_TO_VERIFIED_CREDENTIAL_OR_PDF_1" target="_blank">
+    <img src="./certificates/SDP_Cert.png" width="450" alt="Student Development Program Certification" margin="10" />
+  </a>
+  
+  <a href="LINK_TO_VERIFIED_CREDENTIAL_OR_PDF_2" target="_blank">
+    <img src="./certificates/Trend_Micro_Cert.png" width="450" alt="CyberSecurity Certification" margin="10" />
+  </a>
 
 </div>
 
