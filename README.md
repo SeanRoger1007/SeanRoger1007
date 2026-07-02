@@ -139,12 +139,14 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 ## 📜 Featured Certifications
 
-<div align="center">
-
-  <img src="./certificates/Trend_Micro_Cert.png" width="48%" alt="Trend Micro Certification" style="border-radius: 8px; margin: 1%;" />
-  <img src="./certificates/SDP_Cert.jpg" width="48%" alt="SDP Certification" style="border-radius: 8px; margin: 1%;" />
+<p align="center">
   
-</div>
+  <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/Trend_Micro_Cert.png" width="25%" alt="Trend Micro Certification" />
+  <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/SDP_Cert.jpg" width="25%" alt="SDP Certification" />
+  
+</p>
+  
+
 
 ---
 
