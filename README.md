@@ -141,14 +141,9 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 <div align="center">
 
-  <a href="LINK_TO_VERIFIED_CREDENTIAL_OR_PDF_1" target="_blank">
-    <img src="./certificates/SDP_Cert.png" width="450" alt="Student Development Program Certification" margin="10" />
-  </a>
+  <img src="./certificates/Trend_Micro_Cert.png" width="48%" alt="Trend Micro Certification" style="border-radius: 8px; margin: 1%;" />
+  <img src="./certificates/SDP_Cert.jpg" width="48%" alt="SDP Certification" style="border-radius: 8px; margin: 1%;" />
   
-  <a href="LINK_TO_VERIFIED_CREDENTIAL_OR_PDF_2" target="_blank">
-    <img src="./certificates/Trend_Micro_Cert.png" width="450" alt="CyberSecurity Certification" margin="10" />
-  </a>
-
 </div>
 
 ---
