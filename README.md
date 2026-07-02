@@ -137,6 +137,16 @@ I'm a **Front-End Developer** with a strong focus on a **Architectural Design**,
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+[![View My Certificates](https://img.shields.io/badge/View_My_Certificates-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/1/folders/1YTqC8Wn-dtFEkfvVVv15cxRc0m5w5eVQ)
+
+</div>
+
+---
+
 ##  GitHub Stats
 
 <div align="center">
