@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Front-End Developer** with a strong focus on a **Architectural Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
+I'm a **Front-End Developer** with a strong focus on **Architectural Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
 
 - 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with Spring Boot
 - 🏛️ Strong advocate for **Clean Architecture** — separation of concerns, testability, and maintainability by design
@@ -92,17 +92,17 @@ I'm a **Front-End Developer** with a strong focus on a **Architectural Design**,
 - SMS notification feature for sending attendance updates or alerts  
 - User authentication system with login and registration  
 - Instructor dashboard for managing and monitoring attendance records  
-- Student/user dashboard for viewing attendance history  
+- Designed with strict separation of concerns between presentation layers and backend services
 - Real-time attendance recording and database storage using MySQL  
-- Simple and user-friendly web interface for ease of use  
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
-![TypeScript](https://img.shields.io/badge/TypeScript-98%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
 ###  [ReviewerMaker](https://github.com/SeanRoger1007/ReviewerMaker)
-> This project is designed with the intention of supporting users with disabilities by providing a simple and easy-to-navigate interface. Future improvements may include enhanced accessibility features such as better visual contrast, keyboard navigation, and assistive technology support like a voice-enabled system.  
+> This project is designed with the intention of supporting users with disabilities by providing a simple and easy-to-navigate interface. Future improvements include refactoring the presentation tier into a modern decoupled component architecture.  
 > — Group Members: Gacela, Penera, & Doniego, Technological Institute of the Philippines
 
 **Tech:** PHP · MySQL · HTML · CSS · JavaScript  
@@ -113,24 +113,24 @@ I'm a **Front-End Developer** with a strong focus on a **Architectural Design**,
 - Simple and accessible interface designed for ease of use  
 - Dynamic content display for better study experience  
 - Database integration using MySQL for storing reviewer data  
-- Web-based system accessible through a browser  
-- Designed with accessibility in mind for users with disabilities  
+- Designed with web accessibility fundamentals in mind for users with disabilities  
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/ReviewerMaker)
-![TypeScript](https://img.shields.io/badge/TypeScript-98%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
 ###  [Traffic Monitoring System](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 > An ML-powered traffic monitoring system using computer vision and data distillation techniques to detect, classify, and evaluate vehicles in real-time traffic scenarios.
 
-**Tech:** Python · YOLOv8 · OpenCV · PyTorch · Computer Vision  
+**Tech:** Python · YOLOv8 · OC-SORT · OpenCV · PyTorch · Computer Vision  
+
 **Highlights:**
-- Fine-tuned object detection models using domain-bridge transfer learning
-- OD3 (Object Detection Data Distillation) pipeline for dataset compression without accuracy loss
-- Car evaluation module with multi-class vehicle classification
-- Supports multiple training configurations: 10%, 50%, and 100% dataset sizes
-- YAML-based dataset management for flexible experimentation
+- Fine-tuned object detection models using a **10% Domain Bridge transfer learning strategy** to seamlessly transition model performance from synthetic environments to real data.
+- Integrated **YOLOv8 and OC-SORT tracking architectures** to minimize ID switches and capture localized vehicle classes under heavy occlusion.
+- Achieved an overall **90.31% counting accuracy** on the "Lyniel EastWoods Daytime" sequence, successfully breaching the human-parity threshold.
+- Developed an OD3 (Object Detection Data Distillation) pipeline for dataset compression without accuracy loss.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -167,7 +167,7 @@ I'm a **Front-End Developer** with a strong focus on a **Architectural Design**,
 
 ##  Weekly Coding Breakdown
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeanRoger1007&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@StephenZaraspe)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeanRoger1007&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@SeanRoger1007)
 
 > 🔧 _Install the free WakaTime plugin in IntelliJ / VS Code to auto-populate your real coding stats here._
 
@@ -196,21 +196,22 @@ I'm a **Front-End Developer** with a strong focus on a **Architectural Design**,
 ```java
 public class SeanRogerGacela {
 
-    String[] currentlyLearning = {
-    "Modern Frontend Development with React",
-    "Responsive UI/UX Design (HTML, CSS, Tailwind)",
-    "State Management (React Hooks, Context API)",
-    "Frontend Performance Optimization & Accessibility"
-};
+    String[] coreFocus2026 = {
+        "Modern Frontend Architecture (React, Tailwind, Context API)",
+        "High-Availability Backends (Spring Boot, Distributed Systems)",
+        "Performance Optimization & Web Accessibility (WCAG)"
+    };
 
     String architectureMantra =
         "Depend inward. Isolate the domain. Let frameworks be plugins.";
 
     String getDailyRoutine() {
-        return " Gym  →   Arcade  →   Deep Work  →   Play Guitar → Grind Online Games → Take Care of my Pets";
+        return "Gym → Arcade → Deep Work Layer → Play Guitar → Take Care of Pets";
     }
 
-    boolean isOpenToWork() { return true; }
+    boolean isOpenToWork() { 
+        return true; 
+    }
 }
 ```
 
