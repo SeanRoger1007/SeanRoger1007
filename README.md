@@ -175,7 +175,7 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 ## 🎧 Now Playing
 
-[![My Music Status](https://novatorem-nine-eta.vercel.app/api/orchestrator?v=1)](https://www.last.fm/user/Seanroger07)
+[![My Music Status](https://novatorem-beta-ivory.vercel.app/api/orchestrator?v=1)](https://www.last.fm/user/Seanroger07)
 
 > 🔧 _Deploy the novatorem integration to show your live currently-playing track here._
 
