@@ -121,6 +121,23 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 
 ---
 
+###  [Rouzsean POS System](https://github.com/SeanRoger1007/Rouzsean-pos-system)
+> A Personal Point of Sales System, A localized, data-efficient POS engine developed to handle transactional ledgers, real-time inventory management, and automated sales reporting for small-scale merchants. Built with an offline-first architecture to guarantee zero-latency transaction stability and reliable local data persistence. 
+
+**Tech:** Java · Kotlin 
+
+**Highlights:**
+- Create and manage digital product catalogs, pricing, and active transactions 
+- Organize inventory items by categories or custom tags for lightning-fast checkout lookups
+- Clean, intuitive, and highly responsive mobile interface designed for fast-paced retail and checkout environments
+- Offline-first database integration using Room DB / SQLite for secure transaction and inventory tracking   
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Rouzsean-pos-system)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
 ###  [Traffic Monitoring System](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 > An ML-powered traffic monitoring system using computer vision and data distillation techniques to detect, classify, and evaluate vehicles in real-time traffic scenarios.
 
