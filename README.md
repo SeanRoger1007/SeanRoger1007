@@ -175,7 +175,7 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 ## 🎧 Now Playing
 
-[![My Music Status](https://novatorem-nine-eta.vercel.app/api/spotify)](https://www.last.fm/user/Seanroger07)
+[![My Music Status](https://novatorem-nine-eta.vercel.app/api/orchestrator?v=1)](https://www.last.fm/user/Seanroger07)
 
 > 🔧 _Deploy the novatorem integration to show your live currently-playing track here._
 
@@ -243,7 +243,7 @@ Got here from a job post, a project repo, or just browsing? Drop a note! 👇
 ---
 
 <div align="center">
-  <em>"Make it work. Make it right. Make it fast." — Kent Beck</em>
+  <em>"The best way to tame a mystery is with another mystery" — Houtarou Oreki</em>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=80&section=footer" width="100%"/>
 </div>
