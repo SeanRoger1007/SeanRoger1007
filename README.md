@@ -151,10 +151,9 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 <div align="center">
 
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanRoger1007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeanRoger1007&theme=tokyonight)
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRoger1007&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" /> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRoger1007&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 
 </div>
 
