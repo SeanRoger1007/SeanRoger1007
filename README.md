@@ -185,7 +185,7 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=SeanRoger1007&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeanRoger1007&theme=tokyonight)
 
 </div>
 
