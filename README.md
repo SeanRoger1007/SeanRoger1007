@@ -167,7 +167,7 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 ##  Weekly Coding Breakdown
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeanRoger1007&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@SeanRoger1007)
+![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SeanRoger1007&theme=tokyonight&layout=compact)
 
 > 🔧 _Install the free WakaTime plugin in IntelliJ / VS Code to auto-populate your real coding stats here._
 
