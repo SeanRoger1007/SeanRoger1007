@@ -152,7 +152,7 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanRoger1007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> 
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeanRoger1007&theme=tokyonight)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRoger1007&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 
 </div>
@@ -179,16 +179,6 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 [![My Music Status](https://novatorem-beta-ivory.vercel.app/api/orchestrator?v=1)](https://www.last.fm/user/Seanroger07)
 
 > 🔧 _Deploy the novatorem integration to show your live currently-playing track here._
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SeanRoger1007&theme=tokyonight)
-
-</div>
 
 ---
 
