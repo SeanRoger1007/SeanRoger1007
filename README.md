@@ -173,9 +173,9 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 
 ---
 
-## 🎧 Now Playing on Spotify
+## 🎧 Now Playing
 
-[![My Last.fm](https://github-readme-lastfm.vercel.app/api?username=Seanroger07&theme=tokyonight&layout=bar)](https://www.last.fm/user/Seanroger07)
+[![My Music Status](https://novatorem-nine-eta.vercel.app/api/spotify)](https://www.last.fm/user/Seanroger07)
 
 > 🔧 _Deploy the novatorem integration to show your live currently-playing track here._
 
