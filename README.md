@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Front-End Developer** with a strong focus on **Architectural Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
+I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
 
 - 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with Spring Boot
 - 🏛️ Strong advocate for **Clean Architecture** — separation of concerns, testability, and maintainability by design
@@ -186,6 +186,9 @@ I'm a **Front-End Developer** with a strong focus on **Architectural Design**, *
 ---
 
 ##  What I'm Currently Studying
+
+<details>
+<summary><b>🧑‍💻 View System Configuration (SeanRogerGacela.java)</b></summary>
 
 ```java
 public class SeanRogerGacela {
