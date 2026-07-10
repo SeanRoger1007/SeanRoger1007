@@ -47,21 +47,21 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Frontend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,swift&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin&theme=dark" />
   </a>
 </p>
 
 ### Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,rust,arduino,androidstudio,swift&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,python,js,kotlin,rust,arduino&theme=dark" />
   </a>
 </p>
 
 ### Database & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws,firebase&theme=dark" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Tools & IDE
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,figma,powershell,canva,xampp&theme=dark" />
   </a>
 </p>
 
@@ -138,7 +138,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 
 ---
 
-###  [Traffic Monitoring System](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
+###  [Data Distillation for Occlusion-Robust Traffic Monitoring using YOLOv8 and OC-SORT](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 > An ML-powered traffic monitoring system using computer vision and data distillation techniques to detect, classify, and evaluate vehicles in real-time traffic scenarios.
 
 **Tech:** Python · YOLOv8 · OC-SORT · OpenCV · PyTorch · Computer Vision  
