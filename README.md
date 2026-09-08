@@ -160,8 +160,8 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
   
   <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/Trend_Micro_Cert.jpg" width="25%" alt="Trend Micro Certification" />
   <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/SDP_Cert.jpg" width="25%" alt="SDP Certification" />
-  <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/Microsoft Azure AI Certificate_of_Completion_page-0001.jpg.jpg" width="25%" alt="SDP Certification" />
-  <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/Microsoft CyberSecurity Certificate_of_Completion_page-0001.jpg" width="25%" alt="Microsoft Certification" />
+  <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/Microsoft Azure AI Certificate_of_Completion_page-0001.jpg.jpg" width="25%" alt="Microsoft Azure AI Certification" />
+  <img src="https://github.com/SeanRoger1007/SeanRoger1007/raw/main/certificates/Microsoft CyberSecurity Certificate_of_Completion_page-0001.jpg" width="25%" alt="Microsoft CyberSecurity Certification" />
   
 </p>
   
