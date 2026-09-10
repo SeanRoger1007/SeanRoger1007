@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural Design**, **HTML, C++, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
+I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural Design**, **HTML, CSS, Flutter, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
 
 - 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with Spring Boot
 - 🏛️ Strong advocate for **Clean Architecture** — separation of concerns, testability, and maintainability by design
@@ -54,7 +54,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,java,python,js,nodejs,kotlin,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,java,python,js,nodejs,kotlin&theme=dark" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Tools & IDE
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,figma,powershell,xampp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,figma,powershell,xampp,arduino&theme=dark" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ###  [Attendance Management System](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
 > This project is a Web-Based Attendance Management System developed using PHP, MySQL, HTML, CSS, and JavaScript. The system allows users to register, log in, and manage attendance records through a simple web interface. - Group Members (Gacela, Penera, & Doniego, Technological Institute of the Philippines).
 
-**Tech:** PHP · MySQL · HTML · CSS · JavaScript  
+**Tech:** PHP · HTML · CSS · MySQL · JavaScript  
 
 **Highlights:**
 - QR Code-based attendance tracking for faster and more accurate check-ins  
@@ -96,8 +96,11 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 - Real-time attendance recording and database storage using MySQL  
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
@@ -105,7 +108,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 > This project is designed with the intention of supporting users with disabilities by providing a simple and easy-to-navigate interface. Future improvements include refactoring the presentation tier into a modern decoupled component architecture.  
 > — Group Members: Gacela, Penera, & Doniego, Technological Institute of the Philippines
 
-**Tech:** PHP · MySQL · HTML · CSS · JavaScript  
+**Tech:** PHP  · HTML · CSS · MySQL · JavaScript  
 
 **Highlights:**
 - Create and manage digital reviewer sets for studying  
@@ -116,9 +119,11 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 - Designed with web accessibility fundamentals in mind for users with disabilities  
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/ReviewerMaker)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ---
 
 ###  [Rouzsean POS System](https://github.com/SeanRoger1007/Rouzsean-pos-system)
@@ -151,6 +156,25 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SeanRoger1007/Traffic_Monitoring_System-main)
 ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+
+###  [(Client Website) Realtor Website using Vercel](https://marci-website-opal.vercel.app/#listings)
+> A website serves as a real estate portfolio and landing page for the client, a premier real estate broker with The Ridge Realty Group specializing in the Pahrump Valley and Southern Nevada property markets.
+
+**Tech:** HTML · CSS · JavaScript · Bootstrap 
+
+**Highlights:**
+- Built a modern, high-converting real estate portfolio for a top Southern Nevada broker to streamline client inquiries and property showcases.
+- Integrated interactive property listings and high-definition video walkthroughs to display luxury estates, custom ranches, and desert acreage seamlessly.
+- Engineered a custom Home Valuation & Lead Generation pipeline allowing sellers to request real-time, data-driven comparative market reports.
+  
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### //Placeholder for ongoing website (Visa Consultant Client)
 
 ---
 
@@ -165,8 +189,6 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
   
 </p>
   
-
-
 ---
 
 ##  GitHub Stats
@@ -204,10 +226,19 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 
 ---
 
+## 🕷️ Me vs. My Code
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5pOW1tZng3cmRmZWVwbDUxNDhqNjFpNzFucmtxNzl3bHV3enhvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7neIzuhGJdUTUcLP1r/giphy.gif" width="380px" alt="Jeff vs Jeff" />
+</div>
+
+---
+
 ##  What I'm Currently Studying
 
 <details>
 <summary><b>🧑‍💻 View System Configuration (SeanRogerGacela.java)</b></summary>
+
 
 ```java
 public class SeanRogerGacela {
