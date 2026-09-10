@@ -31,11 +31,11 @@
 
 ## 👨‍💻 About Me
 
-I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural Design**, **HTML, CSS, Flutter, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
+I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural Design**, **PHP, HTML, CSS, Flutter, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
 
-- 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with Spring Boot
+- 🌱 Learning **System Design & Distributed Systems** to architect high-availability backends with PHP
 - 🏛️ Strong advocate for **Clean Architecture** — separation of concerns, testability, and maintainability by design
-- 💬 Ask me about **Front-End Development, Java Architecture, and Scalable API Design**
+- 💬 Ask me about **Front-End Development, PHP Architecture, and Scalable API Design**
 - 🎯 **2026 Goal:** Transition into a Junior Front-End role focusing on scalable Architectures and System Design
 - ⚡ I thrive on consistency — my days start with a **workout/arcade** and wind down deep-diving into **Deep Learning**
 - ✉️ **seanroger21@gmail.com**
