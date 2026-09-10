@@ -47,14 +47,14 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Frontend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,kotlin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,kotlin,flutter&theme=dark" />
   </a>
 </p>
 
 ### Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,python,js,nodejs,kotlin,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,java,python,js,nodejs,kotlin,arduino&theme=dark" />
   </a>
 </p>
 
