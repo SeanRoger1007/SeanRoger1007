@@ -195,9 +195,8 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanRoger1007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRoger1007&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SeanRoger1007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeanRoger1007&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true" alt="Top Languages" />
 
 </div>
 
