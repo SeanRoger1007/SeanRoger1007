@@ -69,7 +69,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Tools & IDE
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,figma,powershell,xampp,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,figma,powershell,arduino&theme=dark" />
   </a>
 </p>
 
