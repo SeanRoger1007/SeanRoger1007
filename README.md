@@ -83,7 +83,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ##  Featured Projects
 
 ###  [Attendance Management System](https://github.com/SeanRoger1007/Project-AppDev-Qr-SMS)
-> This project is a Web-Based Attendance Management System developed using PHP, MySQL, HTML, CSS, and JavaScript. The system allows users to register, log in, and manage attendance records through a simple web interface. - Group Members (Gacela, Penera, & Doniego, Technological Institute of the Philippines).
+> This project is a Web-Based Attendance Management System developed using PHP, MySQL, HTML, CSS, and JavaScript. The system allows users to register, log in, and manage attendance records through a simple web interface.
 
 **Tech:** PHP · HTML · CSS · MySQL · JavaScript  
 
@@ -106,7 +106,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 
 ###  [ReviewerMaker](https://github.com/SeanRoger1007/ReviewerMaker)
 > This project is designed with the intention of supporting users with disabilities by providing a simple and easy-to-navigate interface. Future improvements include refactoring the presentation tier into a modern decoupled component architecture.  
-> — Group Members: Gacela, Penera, & Doniego, Technological Institute of the Philippines
+
 
 **Tech:** PHP  · HTML · CSS · MySQL · JavaScript  
 
