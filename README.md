@@ -108,7 +108,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 > This project is designed with the intention of supporting users with disabilities by providing a simple and easy-to-navigate interface. Future improvements include refactoring the presentation tier into a modern decoupled component architecture.  
 
 
-**Tech:** PHP  · HTML · CSS · MySQL · JavaScript  
+**Tech:** PHP  · HTML · CSS · MySQL · JavaScript · Python
 
 **Highlights:**
 - Create and manage digital reviewer sets for studying  
@@ -124,6 +124,7 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)
 ---
 
 ###  [Rouzsean POS System](https://github.com/SeanRoger1007/Rouzsean-pos-system)
