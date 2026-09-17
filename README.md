@@ -47,21 +47,21 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 ### Frontend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,kotlin,flutter&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,java,kotlin,flutter&theme=dark" />
   </a>
 </p>
 
 ### Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,java,python,js,nodejs,kotlin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,java,python,js,ts,nodejs,kotlin&theme=dark" />
   </a>
 </p>
 
 ### Database & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,aws,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws,firebase,netlify,vercel&theme=dark" />
   </a>
 </p>
 
@@ -175,7 +175,23 @@ I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural D
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### //Placeholder for ongoing website (Visa Consultant Client)
+###  [(Client Website) Quadro-H Visa & Immigration Advisory using Netlify](https://quadro-h.netlify.app)
+> A high-performance web application and digital advisory platform for Quadro-H, an expert immigration and visa consultancy in the Philippines specializing in visa extensions, work permits, DFA passport services, and legal documentation.
+
+**Tech:** React · TypeScript · Vite · Tailwind CSS · WebGL / GLSL · WebCodecs · EmailJS
+
+**Highlights:**
+- Engineered a modern, high-converting digital advisory platform for an immigration consultancy to streamline client inquiries, visa consultations, and service category discovery.
+- Developed an ultra-smooth, scroll-driven video scrubbing engine using MP4Box, WebCodecs, and HTML5 Canvas, paired with a custom WebGL liquid distortion shader and reactive cursor tracking for an immersive hero experience.
+- Implemented an automated lead capture and multi-tier inquiry pipeline powered by EmailJS, featuring dynamic visa category selection, automated client confirmations, interactive FAQ accordions, and client review showcases.
+  
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](#)
+[![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](#)
+
 
 ---
 
