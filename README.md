@@ -29,6 +29,24 @@
 
 ---
 
+## 💼 Experience
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="160">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_uqVgoAbxVfy_i3ZUJrGerERuXCpQiIR-1q5kc_V4JA&s=10" width="140" alt="Tara Global Technology Inc. Logo" />
+    </td>
+    <td valign="top">
+      <h3>Junior Software Developer</h3>
+      <p><strong>Tara Global Technology Inc.</strong> • <em>Sept 2026 – Present</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+---
+
 ## 👨‍💻 About Me
 
 I'm an Aspiring **Front-End Developer** with a strong focus on **Architectural Design**, **PHP, HTML, CSS, Flutter, JS**, and engineering systems designed to scale. I believe great software starts with great foundations — and that consistency in life translates directly into consistency in code.
